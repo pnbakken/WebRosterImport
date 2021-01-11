@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WebRosterImport</string>
+    <string name="import_button">Import from WebRoster</string>
+    <string name="title_activity_s_a_s_portal_login">SASPortalLoginActivity</string>
+    <string name="sas_portal_username_hint">SAS Portal username</string>
+    <string name="sas_portal_password_hint">SAS Portal password</string>
+    <string name="log_in">Log In</string>
+    <string name="portal_username_hint">Username</string>
+    <string name="portal_password_hint">Password</string>
+    <string name="webroster_password_hint">WebRoster Password</string>
+    <string name="webroster_username_hint">WebRoster Username\n(SAS employee number)</string>
+</resources>
